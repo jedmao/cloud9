@@ -8,10 +8,10 @@ class Query(ObjectType):
 
     # our Resolver method takes the GraphQL context (root, info) as well as
     # Argument (name) for the Field and returns data for the query Response
-    def resolve_hello(root, info, name):
+    def resolve_hello(self, info, name):
         return f"Hello {name}!"
 
-    def resolve_goodbye(root, info):
+    def resolve_goodbye(self, info):
         return "See ya!"
 
 

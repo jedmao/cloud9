@@ -2,5 +2,5 @@
 	"editor.formatOnSave": true,
 	"python.autoComplete.extraPaths": ["api/src"],
 	"python.envFile": "${workspaceFolder}/api/.env",
-	"python.formatting.provider": "autopep8"
+	"python.formatting.provider": "black"
 }

@@ -1,0 +1,120 @@
+INFO: 25/09/19 22:26:16         pid:7952 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:27:05         pid:11008 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:27:48         pid:16908 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:33:45         pid:3052 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:34:11         pid:20172 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:35:09         pid:9700 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:35:27         pid:5752 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:35:53         pid:17780 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:36:14         pid:12640 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:37:45         pid:19088 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:39:50         pid:19348 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:40:19         pid:21352 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:41:17         pid:6736 module:_internal  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:41:37         pid:18120 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:43:28         pid:18516 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:43:46         pid:12772 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:45:56         pid:17816 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:46:22         pid:11824 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:46:48         pid:19408 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:46:48         pid:1196 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:46:48         pid:1196 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:46:48         pid:1196 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:47:11         pid:1196 module:_internal  * Detected change in 'Z:\\Documents\\GitHub\\cloud9\\api\\src\\config.py', reloading
+INFO: 25/09/19 22:47:11         pid:19408 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:47:12         pid:12440 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:47:12         pid:12440 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:47:12         pid:12440 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:47:22         pid:11664 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:47:22         pid:17032 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:47:22         pid:17032 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:47:22         pid:17032 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:48:04         pid:17032 module:_internal  * Detected change in 'Z:\\Documents\\GitHub\\cloud9\\api\\src\\server.py', reloading
+INFO: 25/09/19 22:48:04         pid:11664 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:48:05         pid:19976 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:48:05         pid:19976 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:48:05         pid:19976 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:51:27         pid:19976 module:_internal  * Detected change in 'Z:\\Documents\\GitHub\\cloud9\\api\\src\\server.py', reloading
+INFO: 25/09/19 22:51:27         pid:11664 module:_internal  * Restarting with stat
+INFO: 25/09/19 22:51:29         pid:13320 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:51:30         pid:14220 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:51:30         pid:14220 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:51:30         pid:14220 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:51:44         pid:14220 module:_internal  * Detected change in 'Z:\\Documents\\GitHub\\cloud9\\api\\src\\server.py', reloading
+INFO: 25/09/19 22:51:44         pid:13320 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:51:44         pid:20700 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:51:44         pid:20700 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:51:44         pid:20700 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:54:12         pid:16828 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:54:13         pid:9900 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:54:13         pid:9900 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:54:13         pid:9900 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:54:33         pid:21288 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:54:34         pid:4248 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:54:34         pid:4248 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:54:34         pid:4248 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:54:57         pid:5708 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:54:58         pid:3712 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:54:58         pid:3712 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:54:58         pid:3712 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:55:29         pid:3712 module:_internal 127.0.0.1 - - [25/Sep/2019 22:55:29] "GET / HTTP/1.1" 404 -
+INFO: 25/09/19 22:55:30         pid:3712 module:_internal 127.0.0.1 - - [25/Sep/2019 22:55:30] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 25/09/19 22:55:34         pid:3712 module:_internal 127.0.0.1 - - [25/Sep/2019 22:55:34] "GET /graphql HTTP/1.1" 500 -
+INFO: 25/09/19 22:55:34         pid:3712 module:_internal 127.0.0.1 - - [25/Sep/2019 22:55:34] "GET /graphql?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO: 25/09/19 22:55:34         pid:3712 module:_internal 127.0.0.1 - - [25/Sep/2019 22:55:34] "GET /graphql?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO: 25/09/19 22:55:34         pid:3712 module:_internal 127.0.0.1 - - [25/Sep/2019 22:55:34] "GET /graphql?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO: 25/09/19 22:55:35         pid:3712 module:_internal 127.0.0.1 - - [25/Sep/2019 22:55:35] "GET /graphql?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO: 25/09/19 22:55:35         pid:3712 module:_internal 127.0.0.1 - - [25/Sep/2019 22:55:35] "GET /graphql?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO: 25/09/19 22:55:35         pid:3712 module:_internal 127.0.0.1 - - [25/Sep/2019 22:55:35] "GET /graphql?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO: 25/09/19 22:56:26         pid:3712 module:_internal  * Detected change in 'Z:\\Documents\\GitHub\\cloud9\\api\\src\\server.py', reloading
+INFO: 25/09/19 22:56:26         pid:5708 module:_internal  * Restarting with stat
+INFO: 25/09/19 22:56:27         pid:272 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:56:28         pid:7712 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:56:28         pid:7712 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:56:28         pid:7712 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:56:31         pid:7712 module:_internal 127.0.0.1 - - [25/Sep/2019 22:56:31] "GET /graphql HTTP/1.1" 200 -
+INFO: 25/09/19 22:56:32         pid:7712 module:_internal 127.0.0.1 - - [25/Sep/2019 22:56:32] "POST /graphql HTTP/1.1" 200 -
+INFO: 25/09/19 22:56:52         pid:7712 module:_internal  * Detected change in 'Z:\\Documents\\GitHub\\cloud9\\api\\src\\server.py', reloading
+INFO: 25/09/19 22:56:52         pid:272 module:_internal  * Restarting with stat
+INFO: 25/09/19 22:57:31         pid:8240 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:57:32         pid:15192 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:57:32         pid:15192 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:57:32         pid:15192 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:57:38         pid:15192 module:_internal 127.0.0.1 - - [25/Sep/2019 22:57:38] "GET /graphql HTTP/1.1" 200 -
+INFO: 25/09/19 22:57:38         pid:15192 module:_internal 127.0.0.1 - - [25/Sep/2019 22:57:38] "POST /graphql HTTP/1.1" 200 -
+INFO: 25/09/19 22:57:41         pid:15192 module:_internal 127.0.0.1 - - [25/Sep/2019 22:57:41] "GET /graphql/batch HTTP/1.1" 400 -
+INFO: 25/09/19 22:57:47         pid:15192 module:_internal 127.0.0.1 - - [25/Sep/2019 22:57:47] "GET /graphql/batch?foo=bar HTTP/1.1" 400 -
+INFO: 25/09/19 22:57:49         pid:15192 module:_internal 127.0.0.1 - - [25/Sep/2019 22:57:49] "POST /graphql HTTP/1.1" 200 -
+INFO: 25/09/19 22:57:54         pid:15192 module:_internal  * Detected change in 'Z:\\Documents\\GitHub\\cloud9\\api\\src\\server.py', reloading
+INFO: 25/09/19 22:57:54         pid:8240 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:57:55         pid:9356 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:57:55         pid:9356 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:57:55         pid:9356 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:58:04         pid:9356 module:_internal  * Detected change in 'Z:\\Documents\\GitHub\\cloud9\\api\\src\\server.py', reloading
+INFO: 25/09/19 22:58:04         pid:8240 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:58:05         pid:18164 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:58:05         pid:18164 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:58:05         pid:18164 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:58:18         pid:6940 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:58:19         pid:5244 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:58:19         pid:5244 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:58:19         pid:5244 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 22:58:36         pid:5244 module:_internal 127.0.0.1 - - [25/Sep/2019 22:58:36] "POST /graphql HTTP/1.1" 200 -
+INFO: 25/09/19 22:59:36         pid:18920 module:_internal  * Restarting with stat
+WARNING: 25/09/19 22:59:37         pid:12012 module:_internal  * Debugger is active!
+INFO: 25/09/19 22:59:37         pid:12012 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 22:59:37         pid:12012 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 23:00:13         pid:12012 module:_internal  * Detected change in 'Z:\\Documents\\GitHub\\cloud9\\api\\src\\config.py', reloading
+INFO: 25/09/19 23:00:13         pid:18920 module:_internal  * Restarting with stat
+INFO: 25/09/19 23:00:15         pid:16668 module:_internal  * Restarting with stat
+WARNING: 25/09/19 23:00:15         pid:17664 module:_internal  * Debugger is active!
+INFO: 25/09/19 23:00:15         pid:17664 module:_internal  * Debugger PIN: 593-649-867
+INFO: 25/09/19 23:00:15         pid:17664 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 25/09/19 23:03:09         pid:17664 module:_internal 127.0.0.1 - - [25/Sep/2019 23:03:09] "GET /graphql?query=%7B%0A%20%20hello%2C%0A%20%20goodbye%2C%0A%7D HTTP/1.1" 200 -
+INFO: 25/09/19 23:03:09         pid:17664 module:_internal 127.0.0.1 - - [25/Sep/2019 23:03:09] "POST /graphql HTTP/1.1" 200 -
+INFO: 25/09/19 23:05:27         pid:17664 module:_internal 192.168.86.26 - - [25/Sep/2019 23:05:27] "GET /graphql HTTP/1.1" 200 -
+INFO: 25/09/19 23:05:27         pid:17664 module:_internal 192.168.86.26 - - [25/Sep/2019 23:05:27] "POST /graphql HTTP/1.1" 200 -
+INFO: 25/09/19 23:06:32         pid:17664 module:_internal 192.168.86.101 - - [25/Sep/2019 23:06:32] "GET /graphql HTTP/1.1" 200 -
+INFO: 25/09/19 23:06:35         pid:17664 module:_internal 192.168.86.101 - - [25/Sep/2019 23:06:35] "POST /graphql HTTP/1.1" 200 -
+INFO: 25/09/19 23:06:35         pid:17664 module:_internal 192.168.86.101 - - [25/Sep/2019 23:06:35] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 25/09/19 23:06:57         pid:17664 module:_internal 192.168.86.101 - - [25/Sep/2019 23:06:57] "POST /graphql HTTP/1.1" 200 -
